@@ -9,8 +9,8 @@ Each week we add tasks that use what you have just been taught, on the simulator
 | 1 | Pre-registration | [Register a project, and export your proposal](week-01-pre-registration.md) |
 | 2 | Describing data, distributions and uncertainty | [Describe the cohort, look at distributions, and put confidence intervals on estimates](week-02-describing-data.md) |
 | 3 | Testing hypotheses and comparing groups | [Compare groups, test tables of counts, and check genotypes for Hardy–Weinberg equilibrium](week-03-testing-hypotheses.md) |
-| 4 | *Added in week 4* | |
-| 5 | *Added in week 5* | |
+| 4 | Regression | [Fit linear and logistic regressions, with genotypes as predictors, confounders and interactions](week-04-regression.md) |
+| 5 | Genome-scale inference | [Run a genome-wide association study, from quality control to multiple testing and linkage disequilibrium](week-05-genome-scale-inference.md) |
 
 ## Working on the tasks
 
