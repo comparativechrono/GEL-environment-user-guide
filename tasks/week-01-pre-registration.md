@@ -4,8 +4,8 @@
 
 This week you plan a study on the simulator’s data, register it in the Research Registry, and take a copy of your proposal out through the Airlock. Your registered proposal is your **pre-registration**: a dated plan, written before you see any results. We don’t expect a perfect plan. It is a first one, and you will revise it as you learn the methods over the coming weeks.
 
-**Time:** about two hours.
-**You will use:** LabKeeper, the Text Editor, the Research Registry, the Airlock.
+**Time:** about two hours.\
+**You will use:** LabKeeper, the Text Editor, the Research Registry, the Airlock.\
 **You will hand in:** the zip file of your approved Airlock export.
 
 ## Steps
