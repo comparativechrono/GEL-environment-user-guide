@@ -44,7 +44,7 @@ Everything you do in the simulator is kept **by your web browser, for this websi
 - Use the **same browser on the same computer** each time. Another browser, or another computer, starts empty.
 - **Don’t use a private or incognito window.** It keeps nothing once you close it.
 - **Don’t clear this site’s data** in your browser settings.
-- The only way to take a copy of something out is the **Airlock**, as in the real RE. Export anything you need to keep or hand in.
+- The only way to take a copy of something out is the **Airlock**, as in the real RE: export anything you need to keep or hand in. The one exception is the copy of an approved proposal that the **Research Registry** downloads to your computer (see [Week 1](../tasks/week-01-pre-registration.md)).
 
 ## Starting again
 

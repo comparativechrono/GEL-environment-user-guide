@@ -14,7 +14,7 @@ Each week we add tasks here that use what you have just been taught.
 
 | Week | Topic | Task |
 | --- | --- | --- |
-| 1 | Pre-registration | [Register a project and export your proposal through the Airlock](tasks/week-01-pre-registration.md) |
+| 1 | Pre-registration | [Register a project, and hand in the PDF of your approved proposal](tasks/week-01-pre-registration.md) |
 | 2 | Describing data, distributions and uncertainty | [Describe the cohort, look at distributions, and put confidence intervals on estimates](tasks/week-02-describing-data.md) |
 | 3 | Testing hypotheses and comparing groups | [Compare groups, test tables of counts, and check genotypes for Hardy–Weinberg equilibrium](tasks/week-03-testing-hypotheses.md) |
 | 4 | Regression | [Fit linear and logistic regressions, with genotypes as predictors, confounders and interactions](tasks/week-04-regression.md) |

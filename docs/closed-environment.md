@@ -30,6 +30,8 @@ Downloads and exports, from LabKeeper, RStudio, Spyder or the terminal, are save
 
 Files leave the RE only through an Airlock export request, which is checked against the rules and reviewed. See [The Airlock](airlock.md). In the real RE you must not take screenshots of the RE, so get into the habit here: results leave as files, through the Airlock.
 
+The one exception is your approved proposal: when a project is approved, the Research Registry downloads a copy of it, a PDF, to your own computer (see [The Research Registry](research-registry.md#submitting)).
+
 ## Your folders
 
 | Folder | What it is |

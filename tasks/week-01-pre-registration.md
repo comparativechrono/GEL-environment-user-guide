@@ -1,12 +1,12 @@
-# Week 1: register a project, and export your proposal
+# Week 1: register a project, and hand in your approved proposal
 
 [All tasks](README.md) · [Back to the guide](../README.md)
 
-This week you plan a study on the simulator’s data, register it in the Research Registry, and take a copy of your proposal out through the Airlock. Your registered proposal is your **pre-registration**: a dated plan, written before you see any results. We don’t expect a perfect plan. It is a first one, and you will revise it as you learn the methods over the coming weeks.
+This week you plan a study on the simulator’s data and register it in the Research Registry. When the project is approved, the Registry downloads a copy of your approved proposal, a PDF, to your own computer: that copy is what you hand in. Your registered proposal is your **pre-registration**: a dated plan, written before you see any results. We don’t expect a perfect plan. It is a first one, and you will revise it as you learn the methods over the coming weeks.
 
 **Time:** about two hours.\
-**You will use:** LabKeeper, the Text Editor, the Research Registry, the Airlock.\
-**You will hand in:** the zip file of your approved Airlock export.
+**You will use:** LabKeeper, the Text Editor, the Research Registry.\
+**You will hand in:** the PDF of your approved proposal, which the Registry downloads to your computer.
 
 ## Steps
 
@@ -22,19 +22,11 @@ This week you plan a study on the simulator’s data, register it in the Researc
 
 5. **Register it.** Open the **Research Registry**, choose **New proposal**, and copy each section of your file into the form (copy and paste work inside the RE). Tick the declarations and **Submit for review**. When it is approved (about 20 seconds), note your **RR number** and add it to `proposal.md`.
 
-6. **Export your proposal through the Airlock.** In the file manager, right-click `proposal.md` and choose **Request export via Airlock…**.
-    - **Project:** choose the training project **RR4001**. Your own project is less than 30 days old, so the automated check will stop an export under it.
-    - **Describe the files:** say that `proposal.md` is your research proposal, written as plain text, and that it contains no data, no results and no participant IDs.
-    - **Why outside the RE:** to hand it in for the course.
-    - **Comments:** say that it is a proposal, not results, so no participants’ data were used and there is no participant list.
-    - **Run the automated check.** A warning about the participant list is expected. Fix anything marked ✖: for example, a count below 5 written in your text (“n = 3”).
-    - Tick the declarations and **Submit request**.
+6. **Find your copy, and hand it in.** When the project is approved, your web browser downloads a copy of the approved proposal to your own computer, wherever it saves downloads (usually your Downloads folder). It is a PDF named after your RR number and username, such as `RR4120_jdoe_approved_proposal.pdf`. It is the only thing that reaches your computer without going through the Airlock, so you don’t export anything this week. Open it, and check that it has your RR number, the date of approval and every section as you submitted it. Hand it in as your course team asks.
 
-    ![The automated check for a proposal under RR4001: the warning about a participant list is expected](../images/airlock-check-pass.jpg)
+    ![The top of the first page of an approved proposal’s PDF](../images/approved-proposal-pdf.jpg)
 
-    See [The Airlock](../docs/airlock.md) for each step, with pictures.
-
-7. **Download and hand in.** When the request is approved, open it (**My requests**) and press **Download the approved files**. Hand in the zip file as your course team asks.
+    If the copy didn’t download, or you have lost it, open your project in the Registry (**My projects**): the button beside **Your copy** downloads it again.
 
 ## Questions you could ask
 
@@ -132,7 +124,7 @@ At least 20 words: who would gain from the answer, and how.
 - [ ] How many people you have, and what that lets you detect
 - [ ] What you will do about missing data, multiple testing and small numbers
 - [ ] The software, with versions
-- [ ] No IDs, and no counts below 5, anywhere in the text (the Airlock reads it)
+- [ ] No IDs, and no counts below 5, anywhere in the text (your copy of it leaves the RE)
 - [ ] Saved as `proposal.md` in your project folder
 
 ## Keep a log
