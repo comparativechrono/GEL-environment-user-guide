@@ -8,7 +8,7 @@ Each week we add tasks that use what you have just been taught, on the simulator
 | --- | --- | --- |
 | 1 | Pre-registration | [Register a project, and export your proposal](week-01-pre-registration.md) |
 | 2 | Describing data, distributions and uncertainty | [Describe the cohort, look at distributions, and put confidence intervals on estimates](week-02-describing-data.md) |
-| 3 | *Added in week 3* | |
+| 3 | Testing hypotheses and comparing groups | [Compare groups, test tables of counts, and check genotypes for Hardy–Weinberg equilibrium](week-03-testing-hypotheses.md) |
 | 4 | *Added in week 4* | |
 | 5 | *Added in week 5* | |
 
