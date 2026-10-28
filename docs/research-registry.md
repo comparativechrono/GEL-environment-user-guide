@@ -125,7 +125,7 @@ power.prop.test(p1 = 0.40, p2 = 0.50, power = 0.80)
 
 ![What the Registry says if you submit too early](../images/registry-incomplete.jpg)
 
-Once it is submitted, your project page shows its progress: submitted, screening, committee review, approved. When it is approved you get your RR number, your LSF project code, and the date from which Airlock exports are possible.
+Once it is submitted, your project page shows its progress: submitted, screening, committee review, approved. When it is approved you get your RR number, your LSF project code, and the date from which Airlock exports are possible. Your web browser also downloads a copy of the approved proposal, a PDF, to your own computer; the button beside **Your copy**, on the project’s page, downloads it again.
 
 ![An approved project](../images/registry-approved.jpg)
 
@@ -135,7 +135,7 @@ A Research Registry proposal is an access application, and its form only checks 
 
 - Put the **whole analysis plan** in the methods, specific enough that someone could check later whether you followed it.
 - Say **what you have already looked at** (for example, your feasibility counts).
-- **Keep a dated copy**: export your proposal through the Airlock (see [Week 1](../tasks/week-01-pre-registration.md)).
+- **Keep a dated copy**: the PDF of your approved proposal, which the Registry downloads to your computer when the project is approved (see [Week 1](../tasks/week-01-pre-registration.md)).
 - When you report the work, report **any changes to the plan, and why** you made them. Keep a log as you go.
 
 In a real project you would also register the plan publicly, for example on [OSF Registries](https://osf.io/registries), which has a template for analyses of existing data (van den Akker et al. 2021, *Meta-Psychology* 5).
@@ -143,4 +143,4 @@ In a real project you would also register the plan publicly, for example on [OSF
 ## Next
 
 - [The Airlock](airlock.md)
-- [Week 1: register a project and export your proposal](../tasks/week-01-pre-registration.md)
+- [Week 1: register a project, and hand in your approved proposal](../tasks/week-01-pre-registration.md)

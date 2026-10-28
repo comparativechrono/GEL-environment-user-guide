@@ -81,4 +81,4 @@ You cannot paste or drag files into the RE. To bring a file in, such as a refere
 
 ## Next
 
-- [Week 1: register a project and export your proposal](../tasks/week-01-pre-registration.md)
+- [Week 1: register a project, and hand in your approved proposal](../tasks/week-01-pre-registration.md)
