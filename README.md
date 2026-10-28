@@ -15,7 +15,7 @@ Each week we add tasks here that use what you have just been taught.
 | Week | Topic | Task |
 | --- | --- | --- |
 | 1 | Pre-registration | [Register a project and export your proposal through the Airlock](tasks/week-01-pre-registration.md) |
-| 2 | *Added in week 2* | |
+| 2 | Describing data, distributions and uncertainty | [Describe the cohort, look at distributions, and put confidence intervals on estimates](tasks/week-02-describing-data.md) |
 | 3 | *Added in week 3* | |
 | 4 | *Added in week 4* | |
 | 5 | *Added in week 5* | |

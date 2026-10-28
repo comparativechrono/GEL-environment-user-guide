@@ -10,8 +10,8 @@ This repository is public: no answers, expected values or hints about what the d
 
 This week you learned *the topics of the week’s lectures and practicals*. These tasks put them into practice on the simulator’s data.
 
-**Time:** about N hours.
-**You will use:** the applications.
+**Time:** about N hours.\
+**You will use:** the applications.\
 **You will hand in:** what, if anything, and how (or “nothing this week”).
 
 ## Task 1: a short title
